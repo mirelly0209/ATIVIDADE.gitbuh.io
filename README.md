@@ -198,8 +198,7 @@ h1{font-size: 50px;color: blue;}
 &lt;EMBED SRC="https://tutorialehtml.com/assets_tutorials/media/Loreena_Mckennitt_Snow_56bit.mp3" AUTOSTART= LOOP="TRUE"&gt;
 
 
-
-<img src="ap.gif" width="180" height="180" alt="imagem" id="a3" />
+<img src="![tarot](https://user-images.githubusercontent.com/87449995/126522561-73d5ef8b-f5c8-474f-87d7-8067421b610e.gif)" width="180" height="180" alt="imagem" id="a3" />
 
 <html>
   
