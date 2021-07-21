@@ -191,18 +191,6 @@ h1{font-size: 50px;color: blue;}
 </object>
 <p>
 
-&lt;/body&gt;
-
-
-
-&lt;EMBED SRC="https://tutorialehtml.com/assets_tutorials/media/Loreena_Mckennitt_Snow_56bit.mp3" AUTOSTART= LOOP="TRUE"&gt;
-
-![tarot](https://user-images.githubusercontent.com/87449995/126007982-98382080-f609-479f-b7bf-5a80f47ab772.gif)
-
-
-<html>
- 
-    
-    
+&lt;/body&gt;  
   
 </html> < /p> </body> <p/> </html> </head>
