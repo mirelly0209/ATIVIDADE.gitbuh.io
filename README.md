@@ -203,7 +203,7 @@ h1{font-size: 50px;color: blue;}
 <html>
   
   
-</html></p></body></p></html></head>
+
 
 
       
@@ -216,6 +216,5 @@ h1{font-size: 50px;color: blue;}
 	fundo :  # 11242E ;
 	borda superior :  1 px sólido # 193442 ;  
     
-  </body>
   
-</html>
+</html> < /p> </body> <p/> </html> </head>
