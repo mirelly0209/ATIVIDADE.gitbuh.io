@@ -193,7 +193,6 @@ h1{font-size: 50px;color: blue;}
 
 &lt;/body&gt;
   
-  main {
-    plano de fundo :  # 2f3c42b8 ;
+  
   
 </html> < /p> </body> <p/> </html> </head>
