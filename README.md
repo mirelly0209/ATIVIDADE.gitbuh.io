@@ -38,10 +38,11 @@
 <meta name="msapplication-TileColor" content="#da532c" />
 <meta name="theme-color" content="#ffffff" />
 &lt;/head&gt;
-</body>
-<body bgcolor="#8D2828"> </body>
+        </body>
+<body bgcolor="#8D2828"> </body> 
 <html>
 <style>
+  
 p{font-family: arial;font-size: 14px;}
 h1{font-size: 50px;color: blue;}
 </style>
